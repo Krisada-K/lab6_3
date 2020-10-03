@@ -16,6 +16,6 @@ int main()
       for (i = 1; i <= 12; ++i) {
         printf("%d * %d = %d \n", number, i, number * i);}}
    else
-      printf("%d is not a prime number.\n", number);}
+      printf("not a prime number!!!.\n");}
    return 0;
 }
